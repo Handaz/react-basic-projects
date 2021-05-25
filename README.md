@@ -1,5 +1,5 @@
 # react-basic-projects
-These are my first 23 React projects from John Smilga and freeCodeCamp course.
+These are my first 23 React projects from John Smilga (https://github.com/john-smilga/react-projects) and freeCodeCamp course.
 
 # useState
 1. Birthday Reminder
